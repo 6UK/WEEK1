@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Righteous&display=swap');
+#me {
+  background-image: url("../pics/light-car-inside-black.jpg");
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-color: blue;
+  overflow-x: hidden;
+  background-color: #1B0219;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#name {
+  font-family: 'Lobster', cursive;
+  font-family: 'Righteous', cursive;
+  }
